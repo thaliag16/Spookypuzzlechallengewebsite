@@ -13,9 +13,9 @@ const puzzles = [
   {
     id: 1,
     title: "Puzzle 1: The Haunted Math",
-    question: "A ghost, a skeleton, and a vampire go trick-or-treating. The ghost gets 3 times as many candies as the skeleton. The vampire gets 5 more candies than the ghost. If the skeleton gets 7 candies, how many candies does the vampire get?",
-    answer: "26",
-    hint: "First find how many the ghost gets, then add 5 for the vampire."
+    question: "A ghost, a skeleton, and a vampire go trick-or-treating. The ghost gets 6 times as many candies as the skeleton. The vampire gets 15 more candies than the ghost. If the skeleton gets 9 candies, how many candies does the vampire get?",
+    answer: "69",
+    hint: "First find how many the ghost gets, then add 15 for the vampire."
   },
   {
     id: 2,
