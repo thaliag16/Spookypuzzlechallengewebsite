@@ -84,7 +84,7 @@ export function HeroSection({ onStart, started }: HeroSectionProps) {
             >
               🎃
             </motion.span>
-            The Great Pumpkin Challenge
+            Thalia's Great Pumpkin Challenge
             <motion.span
               animate={{ 
                 textShadow: [
