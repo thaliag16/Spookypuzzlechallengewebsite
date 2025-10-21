@@ -20,7 +20,7 @@ DTSTART:${event.start}
 DTEND:${event.end}
 SUMMARY:${event.title}
 LOCATION:${event.location}
-DESCRIPTION:🎃 Halloween Pumpkin Carving Party - The Great Pumpkin Challenge Winner!
+DESCRIPTION:🎃 Thalia's Halloween Pumpkin Carving Party!
 END:VEVENT
 END:VCALENDAR`;
 
@@ -105,7 +105,7 @@ END:VCALENDAR`;
           </h2>
           
           <p className="text-[#F8F8FF] text-xl">
-            Congratulations on completing The Great Pumpkin Challenge!
+            Congratulations on completing Thalia's Great Pumpkin Challenge!
           </p>
         </motion.div>
 
@@ -217,7 +217,7 @@ END:VCALENDAR`;
           className="text-center mt-12"
         >
           <p className="text-[#F8F8FF]/60 text-lg">
-            Thank you for completing The Great Pumpkin Challenge! 👻
+            Thank you for completing Thalia's Great Pumpkin Challenge! 👻
           </p>
         </motion.div>
       </div>
