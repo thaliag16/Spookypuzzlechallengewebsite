@@ -27,7 +27,7 @@ export function RSVPSection({ onSubmit }: RSVPSectionProps) {
 
     // Simulate sending RSVP
     toast.success('🎃 RSVP Submitted!', {
-      description: 'Your response has been sent to Thalia!',
+      description: 'Your response has been sent to Thalia, welcome to the party!',
     });
 
     setTimeout(() => {
