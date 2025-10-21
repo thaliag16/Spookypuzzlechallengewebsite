@@ -27,16 +27,16 @@ const puzzles = [
   {
     id: 3,
     title: "Puzzle 3: The Witch's Cipher",
-    question: "Decode this message: SXNSVFR (shift each letter back by 1)",
+    question: "Decode this message: KIUNPPM",
     answer: "PUMPKIN",
-    hint: "R becomes Q, S becomes R... or does it go backwards?"
+    hint: "Unscrabble those letters girl."
   },
   {
     id: 4,
-    title: "Puzzle 4: The Graveyard Logic",
-    question: "Three zombies always lie, and three humans always tell the truth. One says 'Exactly two of us are zombies.' Is that speaker a zombie or human?",
-    answer: "ZOMBIE",
-    hint: "If a truth-teller said this, would it be true?"
+    title: "Puzzle 4: Who am I?",
+    question: "You can’t see me, but I’m always near. I whisper softly right in your ear. I’ll open doors and chill your spine, But really, I just want to boo your mind.",
+    answer: "Ghost",
+    hint: "OOoOOOOOoooOOOoooOOoOoOOOOOoooo."
   },
   {
     id: 5,
