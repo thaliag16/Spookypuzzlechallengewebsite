@@ -105,7 +105,7 @@ END:VCALENDAR`;
           </h2>
           
           <p className="text-[#F8F8FF] text-xl">
-            Congratulations on completing Thalia's Great Pumpkin Challenge!
+            Congratulations disciple on completing Thalia's Great Pumpkin Challenge! Your life has been spared.
           </p>
         </motion.div>
 
@@ -125,7 +125,7 @@ END:VCALENDAR`;
               {/* Event title */}
               <div className="text-center pb-6 border-b border-[#FF7518]/30">
                 <h3 className="text-[#F8F8FF] text-3xl mb-2">
-                  🎃 Halloween Pumpkin Carving Party 🎃
+                  🎃 Thalia's Halloween Pumpkin Carving Party 🎃
                 </h3>
               </div>
 
@@ -183,7 +183,7 @@ END:VCALENDAR`;
               {/* Additional info */}
               <div className="text-center pt-6 border-t border-[#3A0CA3]/30">
                 <p className="text-[#F8F8FF]/80 mb-2">
-                  🎃 Bring your carving skills and Halloween spirit! 🎃
+                  🎃 We have pumpkins ready for the knife, bring your carving tool of choice and get ready to dismember! 🎃
                 </p>
                 <p className="text-[#F8F8FF]/60 text-sm">
                   Can't wait to see you there!
@@ -217,7 +217,7 @@ END:VCALENDAR`;
           className="text-center mt-12"
         >
           <p className="text-[#F8F8FF]/60 text-lg">
-            Thank you for completing Thalia's Great Pumpkin Challenge! 👻
+            Thank you, disciple, for completing Thalia's Great Pumpkin Challenge! 👻
           </p>
         </motion.div>
       </div>
